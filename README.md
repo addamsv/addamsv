@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=addamsv&style=flat-square&color=blue" alt=""/><br>
-  more about projects here: <a href="https://github.com/addamsv/cv">github.com/addamsv/cv</a></br>
+  <img src="https://komarev.com/ghpvc/?username=addamsv&style=flat-square&color=blue" alt=""/>
+  <h2>more about projects here: <a href="https://github.com/addamsv/cv">github.com/addamsv/cv</a></h2>
 <!--   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
