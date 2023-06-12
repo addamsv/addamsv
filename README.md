@@ -5,7 +5,7 @@
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> -->
-  <table>
+<!--   <table>
   <tr>
     <td><img src="./README_FILES/cv.png" width="300px" height="200px"><p>My CV</p></td>
     <td>
@@ -21,7 +21,7 @@
     <td><img src="./README_FILES/cvddsh.png" width="300px" height="200px"><p>The Covide Dashboard.</p></td>
     <td><img src="./README_FILES/shltr.png" width="300px" height="200px"><p>The Shelter.</p></td>
   </tr>
-</table>
+</table> -->
 
 </div>
 <!--
