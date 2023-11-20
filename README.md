@@ -151,12 +151,12 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a>
 </p>
 
-<details align="center">
+<!--<details align="center">
 <summary>Short video</summary>
 <video src="https://user-images.githubusercontent.com/28826039/222958755-0cfd9d4d-11a6-4283-b5fc-ca0866bb19d0.mov"></video>
 <video src="https://user-images.githubusercontent.com/28826039/222958581-f2efea63-f1d4-4392-907f-ed7062e0eebe.mov"></video>
 <video src="https://user-images.githubusercontent.com/28826039/222958667-731d2d64-f739-4528-86a0-cfc10fa485bb.mov"></video>
-</details>
+</details>//-->
 
 <p align="center">
   <a href="https://github.com/addamsv/The-Laniakea">
@@ -190,10 +190,11 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a>
 </p>
 
-<details  align="center">
+
+<!--<details  align="center">
   <summary>Short Video</summary>
   <video src="https://user-images.githubusercontent.com/28826039/226598154-7f706b80-d57f-479d-8720-343d70517e66.mp4"></video>
-</details>
+</details>//-->
 
 <p align="center">
   <a href="https://github.com/addamsv/The-Minecraft-Game-Clone">
@@ -383,7 +384,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 <p align="center">2015 Training Technologies Center "Belhard" Cert # 18/07-005</p>
 <p align="center">
   <a href="./README_FILES/cert_java.png">
-    <img src="./README_FILES/cert_java.png" width="200px" height="150px">
+    <img src="./README_FILES/cert_java.png" width="150px" height="200px">
   </a><br/>
 </p>
   
