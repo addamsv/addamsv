@@ -115,7 +115,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a><br><br>
     
   <a href="https://the-react-clone.netlify.app/" title="demo">
-  <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
+  <img src="./README_FILES/see_project_btn.png" width="104px" height="43px"></a>
   </a>
 </p>
 
@@ -169,7 +169,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a><br><br>//-->
   
   <a href="https://the-laniakea.netlify.app" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
+    <img src="./README_FILES/see_project_btn.png" width="104px" height="43px"></a>
   </a>
 </p>
 <br><br><br>
@@ -213,7 +213,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
     <img src="./README_FILES/youtube.png" width="30px" height="30px">
   </a><br><br>
   <a href="https://rsclone-minecraft.netlify.app" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
+    <img src="./README_FILES/see_project_btn.png" width="104px" height="43px"></a>
   </a>
 </p>
 
@@ -223,7 +223,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 <h2 align="center">The RSSchool 2020 Q3 Projects</h2>
 <p align="center">
   <a href="https://github.com/addamsv/rsschool" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
+    <img src="./README_FILES/see_all_projects_btn.png" width="104px" height="43px"></a>
   </a>
 </p>
 
@@ -234,10 +234,7 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   As Entrepreneur 2016-2021 - Car Body Repair and Refinishing.<br>
   As Entrepreneur 2002-2016 - Entrance Door Production and Trading.<br>
 
-<br>
-
-<br>
-<br>
+<br><br><br>
 
 <h2 align="center">Education:</h2>
 
@@ -245,9 +242,11 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 <p align="center">
   <a href="https://app.rs.school/certificate/qixjjris">
     <img src="./README_FILES/cert.png" width="200px" height="150px">
-  </a><br/>
-  <a href="https://app.rs.school/certificate/qixjjris">
-    certificate
+  </a>
+  <br/><br/>
+  
+  <a href="https://app.rs.school/certificate/qixjjris" title="demo">
+    <img src="./README_FILES/see_certificate_btn.png" width="104px" height="43px"></a>
   </a>
 </p>
 
