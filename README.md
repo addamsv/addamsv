@@ -107,16 +107,16 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/addamsv/laniakea-core-ts/">
-  <img src="./README_FILES/github.png" width="30px" height="30px">
-</a>
-<a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module">
-  <img src="./README_FILES/npm.png" width="30px" height="30px">
-</a><br><br>
-  
-<a href="https://the-react-clone.netlify.app/" title="demo">
-<img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-</a>
+  <a href="https://github.com/addamsv/laniakea-core-ts/">
+    <img src="./README_FILES/github.png" width="30px" height="30px">
+  </a>
+  <a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module">
+    <img src="./README_FILES/npm.png" width="30px" height="30px">
+  </a><br><br>
+    
+  <a href="https://the-react-clone.netlify.app/" title="demo">
+  <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
+  </a>
 </p>
 
 
@@ -154,17 +154,20 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   </a>
 </p>
 
-<!--<details align="center">
-<summary>Short video</summary>
-<video src="https://user-images.githubusercontent.com/28826039/222958755-0cfd9d4d-11a6-4283-b5fc-ca0866bb19d0.mov"></video>
-<video src="https://user-images.githubusercontent.com/28826039/222958581-f2efea63-f1d4-4392-907f-ed7062e0eebe.mov"></video>
-<video src="https://user-images.githubusercontent.com/28826039/222958667-731d2d64-f739-4528-86a0-cfc10fa485bb.mov"></video>
-</details>//-->
+<!--
+<details align="center">
+  <summary>Short video</summary>
+  <video src="https://user-images.githubusercontent.com/28826039/222958755-0cfd9d4d-11a6-4283-b5fc-ca0866bb19d0.mov"></video>
+  <video src="https://user-images.githubusercontent.com/28826039/222958581-f2efea63-f1d4-4392-907f-ed7062e0eebe.mov"></video>
+  <video src="https://user-images.githubusercontent.com/28826039/222958667-731d2d64-f739-4528-86a0-cfc10fa485bb.mov"></video>
+</details>
+//-->
 
 <p align="center">
-  <a href="https://github.com/addamsv/The-Laniakea">
+  <!--<a href="https://github.com/addamsv/The-Laniakea">
     <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
+  </a><br><br>//-->
+  
   <a href="https://the-laniakea.netlify.app" title="demo">
     <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
   </a>
