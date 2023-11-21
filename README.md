@@ -6,20 +6,23 @@
 
 <h3 align="center">Curriculum Vitae (CV) as <b>Frontend Developer</b></h3><br>
 
-Location: Minsk, Belarus
-<br>
-<a href="https://t.me/Addamsv">
-  <img src="./README_FILES/telegram.png" width="15px" height="15px">&nbsp;https://t.me/Addamsv
-</a><br>
-<a href="https://github.com/addamsv">
-  <img src="./README_FILES/github.png" width="15px" height="15px">&nbsp;https://github.com/addamsv
-</a><br>
-<a href="https://www.linkedin.com/in/sergey-a-37241421b/">
-  <img src="./README_FILES/linkedin.png" width="15px" height="15px">&nbsp;https://www.linkedin.com/in/addamsv
-</a><br>
-<a href="mailto:s.v.addam@gmail.com">
-  <img src="./README_FILES/email.png" width="15px" height="15px">&nbsp;s.v.addam@gmail.com
-</a>
+<p align="center">
+  Location: Minsk, Belarus
+  <br>
+  <a href="https://t.me/Addamsv">
+    <img src="./README_FILES/telegram.png" width="25px" height="25px">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/addamsv">
+    <img src="./README_FILES/github.png" width="25px" height="25px">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/addamsv">
+    <img src="./README_FILES/linkedin.png" width="25px" height="25px">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:s.v.addam@gmail.com">
+    <img src="./README_FILES/email.png" width="25px" height="25px">
+  </a>
+</p>
+
 
 
 <!--
@@ -213,150 +216,16 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 
 <br><br><br><br>
 
-<details align="center">
-<summary><h2>RSSchool 2020 Q3</h2></summary>
 
-<h3 align="center">The Covide Dashboard Dec. 2020</h3>
+<h2 align="center">The RSSchool 2020 Q3 Projects</h2>
 <p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-  <b>Responsibility:</b> Team lead.  Settings of whole project; features:  map, keyboard, list of countries<br>
-  (Team project. 2 participants)<br>
-</p>
-<p align="center">
-  <a href="https://addamsv.github.io/covid-dashboard/">
-    <img src="./README_FILES/cvddsh.jpg" width="300px" height="200px">
-  </a><br>
-  <a href="https://github.com/addamsv/covid-dashboard">
-    <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
-  <a href="https://addamsv.github.io/covid-dashboard/" title="demo">
+  <a href="https://github.com/addamsv/rsschool" title="demo">
     <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
   </a>
-  <br>
 </p>
-<br><br><br>
-  
-
-<h3 align="center">The Momentum. 2020</h3>
-<p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://addamsv.github.io/rsschooll/momentum/">
-    <img src="./README_FILES/mmntm.png" width="300px" height="200px">
-  </a><br>
-  <a href="https://github.com/addamsv/rsschooll/tree/momentum">
-    <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
-  <a href="https://addamsv.github.io/rsschooll/momentum/" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
-
-  
-
-<h3 align="center">The Gem Puzzle. 2020</h3>
-<p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://addamsv.github.io/rsschooll/gem-puzzle/">
-    <img src="./README_FILES/pzzl.png" width="300px" height="500px">
-  </a><br>
-  <a href="https://github.com/addamsv/rsschooll/tree/gem-puzzle">
-    <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
-  <a href="https://addamsv.github.io/rsschooll/gem-puzzle/" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
-
-<h3 align="center">The Shelter. 2020</h3>
-<p align="center">
-  <b>Stack:</b>Pixel Perfect RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/shelter/pages/main/">
-    <img src="./README_FILES/shltr1.png" width="300px" height="200px">
-    <img src="./README_FILES/shltr2.png" width="160px" height="200px">
-    <img src="./README_FILES/shltr3.png" width="100px" height="200px">
-  </a><br><br>
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/shelter/pages/main/" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
-  
-
-<h3 align="center">The RS CSS. 2020</h3>
-<p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/rs-css/">
-    <img src="./README_FILES/rscss.png" width="300px" height="200px">
-  </a><br>
-  <a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md">
-    <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/rs-css/" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
 
 
-
-<h3 align="center">The Calculator. 2020</h3>
-<p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://addamsv.github.io/rsschooll/calculator/">
-    <img src="./README_FILES/clcltr.png" width="195px" height="316px">
-  </a>
-  <br>
-  <a href="https://github.com/addamsv/rsschooll/tree/calculator">
-    <img src="./README_FILES/github.png" width="30px" height="30px">
-  </a><br><br>
-  <a href="https://addamsv.github.io/rsschooll/calculator/" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
-
-
-
-
-<h3 align="center">The Virtual Keyboard. 2020</h3>
-<p align="center">
-  <b>Stack:</b> RWD layouts, CoreJS, Git<br>
-</p>
-<p align="center">
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/virtual-keyboard/">
-    <img src="./README_FILES/kb.png" width="300px" height="316px">
-  </a><br><br>
-  <a href="https://rolling-scopes-school.github.io/addamsv-JS2020Q3/virtual-keyboard" title="demo">
-    <img src="./README_FILES/see_more.png" width="104px" height="43px"></a>
-  </a>
-  <br>
-</p>
-<br><br><br>
-
-</details>
-
-<br>
-
-<br>
-
-<br>
+<br><br><br><br>
 
 <h2 align="center">Experience:</h2>
   As Entrepreneur 2016-2021 - Car Body Repair and Refinishing.<br>
