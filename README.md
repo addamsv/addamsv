@@ -220,16 +220,6 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 <br><br><br><br>
 
 
-<h2 align="center">The RSSchool 2020 Q3 Projects</h2>
-<p align="center">
-  <a href="https://github.com/addamsv/rsschool" title="demo">
-    <img src="./README_FILES/see_all_projects_btn.png" width="104px" height="43px"></a>
-  </a>
-</p>
-
-
-<br><br><br><br>
-
 <h2 align="center">Experience:</h2>
   As Entrepreneur 2016-2021 - Car Body Repair and Refinishing.<br>
   As Entrepreneur 2002-2016 - Entrance Door Production and Trading.<br>
@@ -244,10 +234,14 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
     <img src="./README_FILES/cert.png" width="200px" height="150px">
   </a>
   <br/><br/>
-  
+  <a href="https://github.com/addamsv/rsschool" title="demo">
+    <img src="./README_FILES/see_all_projects_btn.png" width="104px" height="43px"></a>
+  </a>
+  <!--
+  <br>
   <a href="https://app.rs.school/certificate/qixjjris" title="demo">
     <img src="./README_FILES/see_certificate_btn.png" width="104px" height="43px"></a>
-  </a>
+  </a>//-->
 </p>
 
 </br><br><br><br>
