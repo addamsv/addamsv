@@ -51,11 +51,12 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
   <h3 align="center">DevOps</h3>
   &nbsp;<b>Virtualisation:</b> Docker<br>
   &nbsp;<b>Infrastructure:</b> Nginx · Apache · Heroku · AWS s3<br>
-  &nbsp;CI-CD (Continuous Integration / Continuous Delivery): GitHub, Netlify<br>
+  &nbsp;CI-CD (Continuous Integration / Continuous Delivery): GitHub, Netlify, Vercel<br>
   
   <h3 align="center">Common:</h3>
   &nbsp;REST, HTTP, Cookie, Sockets, JSON, Ajax, JWT-Token<br>
-  &nbsp;Legacy, OOP, SOLID, Webpack, Babel, Linter, Prettier<br>
+  &nbsp;Legacy, OOP, SOLID<br>
+  &nbsp;Webpack(Module federation, bundle analyzer, loaders, css modules, lazy, codespliting...), Babel, Linter, Prettier<br>
   &nbsp;NPM, Yarn (making packages)<br>
   &nbsp;Git (UI, Command Line), GitProjects<br>
 
