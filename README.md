@@ -257,7 +257,9 @@ https://by.linkedin.com/in/sergey-adamovich-37241421b?trk=people-guest_people_se
 <br><br><br><br>
 
 <p align="center">2002 BATU Production Economics and Management (faculty: Business Informatics)</p>
-
+<p align="center">
+  <img src="./README_FILES/BATU.png" width="200px" height="200px">
+</p>
 
 <br><br><br><br>
 
