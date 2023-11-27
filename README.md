@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=addamsv&style=flat-square&color=blue" alt=""/>
   <br><br>
-  <a href="https://github.com/addamsv/addamsv/tree/CV">
+  <!--<a href="https://github.com/addamsv/addamsv/tree/CV">
     <img src="./README_FILES/check_out_cv_btn.png" alt="CV"/>
+  </a>-->
+  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_28_Nov_23.pdf">
+    <img src="./README_FILES/cv_pdf_btn.png" alt="CV"/>
   </a>
 <!--   <h1>
     Hey there
