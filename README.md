@@ -26,7 +26,7 @@
   
   <br><br>
   
-  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_28_Nov_23.pdf">
+  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_2_Dec_23.pdf">
     <img src="./README_FILES/cv_pdf_btn.png" alt="CV"/>
   </a>
   
