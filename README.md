@@ -4,18 +4,33 @@
   <table>
     <tr>
       <td>
-        <img src="./README_FILES/react.png" width="300px" height="200px" />
         <p>The Own React (The React Clone).</p>
+        <img src="./README_FILES/react.png" width="300px" height="200px" />
+        <p align="center">
+          <a href="https://the-react-clone.netlify.app/">
+          <img src="./README_FILES/see_project.png" width="104px" height="41px" />
+        </a>
+        </p> 
       </td>
       <td>
-        <img src="./README_FILES/mncrft.png" width="300px" height="200px" />
         <p>The Maincraft Game Clone.</p>
+        <img src="./README_FILES/mncrft.png" width="300px" height="200px" />
+        <p align="center">
+          <a href="https://rsclone-minecraft.netlify.app/">
+          <img src="./README_FILES/see_project.png" width="104px" height="41px" />
+        </a>
+        </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="./README_FILES/bldr_1.png" width="300px" height="200px" />
         <p>The Animation, CSS and HTML Builder</p>
+        <img src="./README_FILES/bldr_1.png" width="300px" height="200px" />
+        <p align="center">
+          <a href="https://the-laniakea.netlify.app/">
+          <img src="./README_FILES/see_project.png" width="104px" height="41px" />
+        </a>
+        </p>
       </td>
     </tr>
   </table>
