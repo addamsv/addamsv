@@ -5,7 +5,7 @@
     <tr>
       <td>
         <p>The Own React (The React Clone).</p>
-        <img src="./README_FILES/react.png" width="300px" height="200px" />
+        <img src="./README_FILES/own_react_img.png" width="300px" height="200px" />
         <p align="center">
           <a href="https://github.com/addamsv/laniakea-core-ts/">
             <img src="./README_FILES/github.png" width="30px" height="30px">
