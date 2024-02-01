@@ -49,7 +49,7 @@
   
   <br><br>
   
-  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_12_dec_23.pdf">
+  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_9_Jan_24.pdf">
     <img src="./README_FILES/cv_pdf_btn.png" alt="CV"/>
   </a>
   
