@@ -17,7 +17,7 @@
       <td>
         <p>Maincraft 3D Game (The Mincraft Clone)</p>
         <img src="./README_FILES/game.png" width="300px" height="200px" />
-        <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./README_FILES/git.png" width="30px" height="30px"></a><a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./README_FILES/medium.png" width="30px" height="30px"></a><a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./README_FILES/youtube.png" width="30px" height="30px">
+        <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./README_FILES/git.png" width="30px" height="30px"></a><a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./README_FILES/medium_.png" width="30px" height="30px"></a><a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./README_FILES/ytube.png" width="30px" height="30px">
           </a><br><br>
           <a href="https://rsclone-minecraft.netlify.app/">
             <img src="./README_FILES/see_more_.png" width="104px" height="41px" />
