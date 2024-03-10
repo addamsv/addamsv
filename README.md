@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Projects:</h1>
+  <h1>PROJECTS:</h1>
 
   <table>
     <tr>
@@ -10,7 +10,7 @@
           <br/>
           <br/>
           <a href="https://the-react-clone.netlify.app/">
-            <img src="./README_FILES/see_more_.png" width="104px" height="41px" />
+            <img src="./.github/see_project.png" width="104px" height="41px" />
           </a>
         </p> 
       </td>
@@ -20,7 +20,7 @@
         <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./README_FILES/git.png" width="30px" height="30px"></a><a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./README_FILES/medium_.png" width="30px" height="30px"></a><a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./README_FILES/ytube.png" width="30px" height="30px">
           </a><br><br>
           <a href="https://rsclone-minecraft.netlify.app/">
-            <img src="./README_FILES/see_more_.png" width="104px" height="41px" />
+            <img src="./.github/see_project.png" width="104px" height="41px" />
           </a>
         </p>
       </td>
@@ -36,7 +36,7 @@
           </a>
           <br><br>
           <a href="https://the-laniakea.netlify.app/">
-          <img src="./README_FILES/see_more_.png" width="104px" height="41px" />
+          <img src="./.github/see_project.png" width="104px" height="41px" />
         </a>
         </p>
       </td>
