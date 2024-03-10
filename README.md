@@ -5,8 +5,8 @@
     <tr>
       <td>
         <p>Own React (The React Clone).</p>
-        <img src="./README_FILES/own_react.png" width="300px" height="200px" />
-        <p align="center"><a href="https://github.com/addamsv/laniakea-core-ts/"><img src="./README_FILES/git.png" width="30px" height="30px"></a><a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module"><img src="./README_FILES/npm.png" width="30px" height="30px"></a>
+        <img src="./.github/own_react.png" width="300px" height="200px" />
+        <p align="center"><a href="https://github.com/addamsv/laniakea-core-ts/"><img src="./.github/git.png" width="30px" height="30px"></a><a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module"><img src="./.github/npm.png" width="30px" height="30px"></a>
           <br/>
           <br/>
           <a href="https://the-react-clone.netlify.app/">
@@ -16,8 +16,8 @@
       </td>
       <td>
         <p>Maincraft 3D Game (The Mincraft Clone)</p>
-        <img src="./README_FILES/game.png" width="300px" height="200px" />
-        <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./README_FILES/git.png" width="30px" height="30px"></a><a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./README_FILES/medium_.png" width="30px" height="30px"></a><a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./README_FILES/ytube.png" width="30px" height="30px">
+        <img src="./.github/game.png" width="300px" height="200px" />
+        <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./.github/git.png" width="30px" height="30px"></a><a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a><a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
           </a><br><br>
           <a href="https://rsclone-minecraft.netlify.app/">
             <img src="./.github/see_project.png" width="104px" height="41px" />
@@ -28,11 +28,11 @@
     <tr>
       <td>
         <p>Animation & WordPress Theme Builder</p>
-        <img src="./README_FILES/lania.png" width="300px" height="200px" />
+        <img src="./.github/lania.png" width="300px" height="200px" />
         <p align="center">private repo:</p>
         <p align="center">
           <a href="https://github.com/addamsv/The-Laniakea">
-            <img src="./README_FILES/git.png" width="30px" height="30px">
+            <img src="./.github/git.png" width="30px" height="30px">
           </a>
           <br><br>
           <a href="https://the-laniakea.netlify.app/">
@@ -44,16 +44,16 @@
   </table>
 
   <!--<a href="https://github.com/addamsv/addamsv/tree/CV">
-    <img src="./README_FILES/check_out_cv_btn.png" alt="CV"/>
+    <img src="./.github/check_out_cv_btn.png" alt="CV"/>
   </a>-->
   
   <br><br>
   
-  <a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_9_Jan_24.pdf">
-    <img src="./README_FILES/cv_pdf_btn.png" alt="CV"/>
+  <!--<a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_9_Jan_24.pdf">
+    <img src="./.github/cv_pdf_btn.png" alt="CV"/>
   </a>
   
-  <br><br>
+  <br><br>-->
   
   <img src="https://komarev.com/ghpvc/?username=addamsv&style=flat-square&color=blue" alt="" />
   
