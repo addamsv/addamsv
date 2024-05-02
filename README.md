@@ -42,7 +42,7 @@
       </td>
       <td>
         <p>Internet Store</p>
-        <img src="./.github/istore_trp.png" width="300px" height="200px" />
+        <img src="./.github/i-store.jpg" width="300px" height="200px" />
         <p align="center">repo:</p>
         <p align="center">
           <a href="https://github.com/addamsv/internet-store">
