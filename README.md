@@ -40,6 +40,20 @@
         </a>
         </p>
       </td>
+      <td>
+        <p>Internet Store</p>
+        <img src="./.github/istore_trp.png" width="300px" height="200px" />
+        <p align="center">repo:</p>
+        <p align="center">
+          <a href="https://github.com/addamsv/internet-store">
+            <img src="./.github/git.png" width="30px" height="30px">
+          </a>
+          <br><br>
+          <a href="https://github.com/addamsv/internet-store">
+          <img src="./.github/see_project.png" width="104px" height="41px" />
+        </a>
+        </p>
+      </td>
     </tr>
   </table>
 
