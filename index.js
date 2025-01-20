@@ -3,7 +3,7 @@ fetch(
   {
       method: 'POST',
       headers: {
-          Authorization: "Basic " + btoa('Alexander:Alexander')
+          Authorization: "Basic " + btoa('admin:123')
       }
   }
 )

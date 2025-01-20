@@ -4,7 +4,17 @@
   <table>
     <tr>
       <td>
-        <p>Maincraft 3D Game (The Mincraft Clone)</p>
+        <h2>Audio Books</h2>
+        <img src="./.github/audiobooks.png" width="300px" height="200px" />
+        <p align="center">
+          <br><br>
+          <a href="https://github.com/addamsv/stored-book">
+            <img src="./.github/see_project.png" width="104px" height="41px" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <h2>Maincraft (3D Game)</h2>
         <img src="./.github/game.png" width="300px" height="200px" />
         <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./.github/git.png" width="30px" height="30px"></a> <a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
           </a><br><br>
@@ -13,8 +23,10 @@
           </a>
         </p>
       </td>
+    </tr>
+    <tr>
       <td>
-        <p>Internet Store</p>
+        <h2>Internet Store</h2>
         <img src="./.github/i-store.jpg" width="300px" height="200px" />
         <p align="center">
           <br><br>
@@ -23,10 +35,8 @@
           </a>
         </p>
       </td>
-    </tr>
-    <tr>
       <td>
-        <p>Own React, Redux, Axios (clones)</p>
+        <h2>Own React, Redux, Axios</h2>
         <img src="./.github/own_react.png" width="300px" height="200px" />
         <p align="center">
           Git: <a href="https://github.com/addamsv/laniakea-core-ts/">Own React</a>
@@ -63,15 +73,15 @@
   <!--<a href="https://github.com/addamsv/addamsv/tree/CV">
     <img src="./.github/check_out_cv_btn.png" alt="CV"/>
   </a>-->
-  
-  <br><br>
-  
+
+<br><br>
+
   <!--<a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_9_Jan_24.pdf">
     <img src="./.github/cv_pdf_btn.png" alt="CV"/>
   </a>
   
   <br><br>-->
-  
+
   <img src="https://komarev.com/ghpvc/?username=addamsv&style=flat-square&color=blue" alt="" />
   
 </div>
