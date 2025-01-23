@@ -5,6 +5,9 @@
     <tr>
       <td>
         <h2>Audio Books</h2>
+        <p>
+          Frontend React-Redux-Thunk
+        </p>
         <img src="./.github/audiobooks.png" width="300px" height="200px" />
         <p align="center">
           <br><br>
@@ -14,7 +17,10 @@
         </p>
       </td>
       <td>
-        <h2>Maincraft (3D Game)</h2>
+        <h2>Minecraft (3D Game)</h2>
+        <p>
+          TS, Three.js
+        </p>
         <img src="./.github/game.png" width="300px" height="200px" />
         <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./.github/git.png" width="30px" height="30px"></a> <a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
           </a><br><br>
@@ -27,6 +33,9 @@
     <tr>
       <td>
         <h2>Internet Store</h2>
+        <p>
+          Fullstack TS, Node
+        </p>
         <img src="./.github/i-store.jpg" width="300px" height="200px" />
         <p align="center">
           <br><br>
