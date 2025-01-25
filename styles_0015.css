@@ -1,10 +1,10 @@
 /**
 *
-* @copyright (c) 2024 S.Adamovich - <http://v2913129.beget.tech/>
+* @copyright (c) 2024 S.Adamovich
 * @license GPL 3.0 http://www.gnu.org/licenses/gpl.html
 * @Version: 1.0.0 
 *
-* Examples and documentation at: http://v2913129.beget.tech
+* Examples and documentation at: https://addamsv.github.io/addamsv
 *
 * Author S.Adamovich
 */
@@ -37,7 +37,7 @@ body {
   background-color: rgba(25, 25, 25, 0.95);
   box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.95);
   width: 100%;
-  z-index: 90;
+  z-index: 80;
 }
 /*.sticked-main-nav{
     font-family: Arial;
@@ -136,7 +136,7 @@ body {
   /*display: -webkit-flex;*/
   display: flex;
   /*-webkit-flex-direction: column;
-        -moz-flex-direction: column;*/
+  -moz-flex-direction: column;*/
   flex-direction: column;
   /*-webkit-align-items:flex-start;*/
   align-items: flex-start;
@@ -341,6 +341,15 @@ body {
 .header-sub-description {
   font-size: 20px;
   font-weight: bold;
+  border: 1px solid;
+  padding: 5px 18px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgb(3 3 3 / 40%);
+  cursor: pointer;
+  transition: 0.2s;
+}
+.header-sub-description:hover {
+  box-shadow: none;
 }
 
 .header-sub-description a {
@@ -371,7 +380,7 @@ body {
     padding-top: 20px;
   }
   .header-sub-description {
-    padding-top: 20px;
+    margin-top: 20px;
   }
 }
 
