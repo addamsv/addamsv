@@ -1,3 +1,24 @@
+/**
+*
+* @copyright (c) 2025 S.Adamovich
+* @license GPL 3.0 http://www.gnu.org/licenses/gpl.html
+* @version: 1.0.0 
+*
+* Examples and documentation at: https://addamsv.github.io/addamsv
+*
+* @author S.Adamovich
+*/
+
+/** 
+* @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+*/
+
+/** 
+* @link https://developers.google.com/speed/pagespeed/insights/ 
+* @link https://jigsaw.w3.org/css-validator/
+* @link https://validator.w3.org
+*/
+
 fetch(
   'http://localhost:8080/api/v1/users/login',
   {

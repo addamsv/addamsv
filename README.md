@@ -8,10 +8,10 @@
         <p>
           Frontend React-Redux-Thunk
         </p>
-        <img src="./.github/audiobooks.png" width="300px" height="200px" />
-        <p align="center">
+        <img src="./.github/audiobooks.jpg" width="300px" height="200px" />
+        <p align="center"><a href="https://github.com/addamsv/stored-book"><img src="./.github/git.png" width="30px" height="30px"></a>
           <br><br>
-          <a href="https://github.com/addamsv/stored-book">
+          <a href="https://stored-books.netlify.app/">
             <img src="./.github/see_project.png" width="104px" height="41px" />
           </a>
         </p>
@@ -21,7 +21,7 @@
         <p>
           TS, Three.js
         </p>
-        <img src="./.github/game.png" width="300px" height="200px" />
+        <img src="./.github/game.jpg" width="300px" height="200px" />
         <p align="center"><a href="https://github.com/addamsv/The-Minecraft-Game-Clone"><img src="./.github/git.png" width="30px" height="30px"></a> <a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
           </a><br><br>
           <a href="https://rsclone-minecraft.netlify.app/">
@@ -45,8 +45,8 @@
         </p>
       </td>
       <td>
-        <h2>Own React, Redux, Axios</h2>
-        <img src="./.github/own_react.png" width="300px" height="200px" />
+        <h2>Own Frameworks and Libraries</h2>
+        <img src="./.github/own_react.jpg" width="300px" height="200px" />
         <p align="center">
           Git: <a href="https://github.com/addamsv/laniakea-core-ts/">Own React</a>
           <br/>
@@ -64,11 +64,11 @@
       </td>
 <!--       <td>
         <p>Animation & WordPress Theme Builder</p>
-        <img src="./.github/lania.png" width="300px" height="200px" />
+        <img src="./.github/lania.jpg" width="300px" height="200px" />
         <p align="center">private repo:</p>
         <p align="center">
           <a href="https://github.com/addamsv/The-Laniakea">
-            <img src="./.github/git.png" width="30px" height="30px">
+            <img src="./.github/git.jpg" width="30px" height="30px">
           </a>
           <br><br>
           <a href="https://the-laniakea.netlify.app/">
@@ -80,13 +80,13 @@
   </table>
 
   <!--<a href="https://github.com/addamsv/addamsv/tree/CV">
-    <img src="./.github/check_out_cv_btn.png" alt="CV"/>
+    <img src="./.github/check_out_cv_btn.jpg" alt="CV"/>
   </a>-->
 
 <br><br>
 
   <!--<a href="https://github.com/addamsv/addamsv/blob/CV/README_FILES/CV_9_Jan_24.pdf">
-    <img src="./.github/cv_pdf_btn.png" alt="CV"/>
+    <img src="./.github/cv_pdf_btn.jpg" alt="CV"/>
   </a>
   
   <br><br>-->
