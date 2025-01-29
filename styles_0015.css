@@ -1,22 +1,3 @@
-/**
-*
-* @copyright (c) 2024 S.Adamovich
-* @license GPL 3.0 http://www.gnu.org/licenses/gpl.html
-* @Version: 1.0.0 
-*
-* Examples and documentation at: https://addamsv.github.io/addamsv
-*
-* Author S.Adamovich
-*/
-
-/*@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');*/
-
-/** 
-* @link https://developers.google.com/speed/pagespeed/insights/ 
-* @link https://jigsaw.w3.org/css-validator/
-* @link https://validator.w3.org
-*/
-
 /* Common */
 
 * {
@@ -286,7 +267,7 @@ body {
 .header-bg-img {
   display: block;
   position: absolute;
-  background-image: url("img/img.png");
+  background-image: url("img/img.jpg");
   background-repeat: no-repeat;
   background-position: center 56%;
   background-size: cover;
