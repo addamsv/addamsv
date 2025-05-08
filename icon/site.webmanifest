@@ -2,7 +2,7 @@
   "name": "MyWebSite",
   "short_name": "MySite",
   "description": "about me",
-  "start_url": ".",
+  "start_url": "https://addamsv.github.io/addamsv/",
   "icons": [
     {
       "src": "/icon/favicon-96x96.png",
