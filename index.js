@@ -19,19 +19,36 @@
 * @link https://validator.w3.org
 */
 
-fetch(
+window.addEventListener("load", () => {
+  // tryToLogin();
+
+  registerServiceWorker();
+})
+
+const tryToLogin = () => {
+  fetch(
   'http://localhost:8080/api/v1/users/login',
   {
       method: 'POST',
       headers: {
           Authorization: "Basic " + btoa('admin:123')
       }
+  })
+  .then((resp) => resp.json())
+  .then((data) => {
+    console.log(data);
+  })
+  .catch((error) => {
+    console.log(error);
+  });
+};
+
+const registerServiceWorker = async () => {
+  if ("serviceWorker" in navigator) {
+    try {
+      await navigator.serviceWorker.register("./serviceWorker.js");
+    } catch (e) {
+      console.log("registration of serviceWorker failed");
+    }
   }
-)
-.then((resp) => resp.json())
-.then((data) => {
-  console.log(data);
-})
-.catch((error) => {
-  console.log(error);
-});
+}
