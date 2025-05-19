@@ -1,4 +1,5 @@
 {
+  "id": "/addamsv",
   "name": "MyWebSite",
   "short_name": "MySite",
   "description": "about me",
@@ -17,14 +18,12 @@
     {
       "src": "/addamsv/icon/web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     },
     {
       "src": "/addamsv/icon/web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     }
   ],
   "theme_color": "#ffffff",
@@ -42,7 +41,7 @@
       "src": "/addamsv/icon/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/gif",
-      "platform": "ios",
+      "form_factor": "narrow",
       "label": "Application"
     }
   ]

@@ -1118,6 +1118,8 @@ body {
   margin-top: 27px;
   padding: 10px 15px;
   transition: 0.2s;
+  color: #252525;
+  text-decoration: none;
 }
 .contact-form-send-button:hover {
   cursor: pointer;
