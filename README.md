@@ -1,22 +1,26 @@
 <div id="header" align="center">
+  <a href="https://addamsv.github.io/addamsv/">
+    <img src="./.github/site-cv.png" alt="CV" width="250px"/>
+  </a>
+
+  <br>
+
   <h1>PROJECTS:</h1>
 
   <table>
     <tr>
       <td>
-        <h2>Audio Books</h2>
+        <h2>Internet Store</h2>
         <p align="center">
-          TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, Screenshots), Storybook, CI/CD...
+          TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, RTL, Screenshots), Storybook, CI/CD...
           <br><br>
-          <a href="https://stored-books.netlify.app/">
-            <img src="./.github/audiobooks.jpg" width="178px" />
+          <a href="https://github.com/addamsv/internet-store">
+            <img src="./.github/i-store.jpg" width="200px" />
           </a>
           <br>
-          <a href="https://github.com/addamsv/stored-book">
+          <a href="https://github.com/addamsv/internet-store">
             <img src="./.github/git.png" width="30px" height="30px">
           </a>
-          <br>
-          Deploy: <a href="https://stored-books.netlify.app/">Project example</a>
         </p>
       </td>
       <td>
@@ -38,17 +42,19 @@
     </tr>
     <tr>
       <td>
-        <h2>Internet Store</h2>
+        <h2>Audio Books</h2>
         <p align="center">
-          TS, Nodejs, Express, REST API...
+          TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, Screenshots), Storybook, CI/CD...
           <br><br>
-          <a href="https://github.com/addamsv/internet-store">
-            <img src="./.github/i-store.jpg" width="200px" />
+          <a href="https://stored-books.netlify.app/">
+            <img src="./.github/audiobooks.jpg" width="178px" />
           </a>
           <br>
-          <a href="https://github.com/addamsv/internet-store">
+          <a href="https://github.com/addamsv/stored-book">
             <img src="./.github/git.png" width="30px" height="30px">
           </a>
+          <br>
+          Deploy: <a href="https://stored-books.netlify.app/">Project example</a>
         </p>
       </td>
       <td>
@@ -89,10 +95,6 @@
       </td> -->
     </tr>
   </table>
-
-  <!--<a href="https://github.com/addamsv/addamsv/tree/CV">
-    <img src="./.github/check_out_cv_btn.jpg" alt="CV"/>
-  </a>-->
 
 <br><br>
 
