@@ -21,8 +21,6 @@
 
 window.addEventListener("load", () => {
   // tryToLogin();
-
-  registerServiceWorker();
 })
 
 const tryToLogin = () => {
@@ -42,13 +40,3 @@ const tryToLogin = () => {
     console.log(error);
   });
 };
-
-const registerServiceWorker = async () => {
-  if ("serviceWorker" in navigator) {
-    try {
-      await navigator.serviceWorker.register("./serviceWorker.js");
-    } catch (e) {
-      console.log("registration of serviceWorker failed");
-    }
-  }
-}

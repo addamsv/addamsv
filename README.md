@@ -1,15 +1,52 @@
 <div id="header" align="center">
+  <br><br>
+  
   <a href="https://addamsv.github.io/addamsv/">
     <img src="./.github/site-cv.png" alt="CV" width="250px"/>
   </a>
 
-  <br>
+<br><br>
 
   <h1>PROJECTS:</h1>
 
   <table>
     <tr>
       <td>
+        <h2>Minecraft 3D Net Game</h2>
+        <p align="center">
+          TS, Three.js, Nodejs, Express, Sockets, REST API...
+          <br><br>
+          <a href="https://rsclone-minecraft.netlify.app/">
+            <img src="./.github/game.jpg" width="200px" />
+          </a>
+          <br>
+          <a href="https://github.com/addamsv/The-Minecraft-Game-Clone">
+            <img src="./.github/git.png" width="30px" height="30px"></a> <a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
+          </a>
+          <br><br>
+          Deploy: <a href="https://rsclone-minecraft.netlify.app/">Project example</a>
+        </p>
+      </td>
+      <td>
+        <h2>Audio Books</h2>
+        <p align="center">
+          TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, Screenshots), Storybook, CI/CD...
+          <br><br>
+          <a href="https://stored-books.netlify.app/">
+            <img src="./.github/audiobooks.jpg" width="178px" />
+          </a>
+          <br>
+          <a href="https://github.com/addamsv/stored-book">
+            <img src="./.github/git.png" width="30px" height="30px">
+          </a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
+          </a>
+          <br><br>
+          Deploy: <a href="https://stored-books.netlify.app/">Project example</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- <td>
         <h2>Internet Store</h2>
         <p align="center">
           TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, RTL, Screenshots), Storybook, CI/CD...
@@ -22,41 +59,7 @@
             <img src="./.github/git.png" width="30px" height="30px">
           </a>
         </p>
-      </td>
-      <td>
-        <h2>Minecraft (Net, 3D Game)</h2>
-        <p align="center">
-          TS, Three.js, Nodejs, Express, Sockets, REST API...
-          <br><br>
-          <a href="https://rsclone-minecraft.netlify.app/">
-            <img src="./.github/game.jpg" width="200px" />
-          </a>
-          <br>
-          <a href="https://github.com/addamsv/The-Minecraft-Game-Clone">
-            <img src="./.github/git.png" width="30px" height="30px"></a> <a href="https://tatsmaki.medium.com/rs-school-minecraft-на-typescript-aa7f4db88bd5" title="Article on Medium"><img src="./.github/medium_-1.png" width="30px" height="30px"></a> <a href="https://youtu.be/vuykuEkxEtY" title="Presentation on Youtube"><img src="./.github/ytube.png" width="30px" height="30px">
-          </a>
-          <br>
-          Deploy: <a href="https://rsclone-minecraft.netlify.app/">Project example</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h2>Audio Books</h2>
-        <p align="center">
-          TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, Screenshots), Storybook, CI/CD...
-          <br><br>
-          <a href="https://stored-books.netlify.app/">
-            <img src="./.github/audiobooks.jpg" width="178px" />
-          </a>
-          <br>
-          <a href="https://github.com/addamsv/stored-book">
-            <img src="./.github/git.png" width="30px" height="30px">
-          </a>
-          <br>
-          Deploy: <a href="https://stored-books.netlify.app/">Project example</a>
-        </p>
-      </td>
+      </td> -->
       <td>
         <h2>Own Frameworks and Libraries</h2>
         <p>
@@ -66,16 +69,16 @@
           <img src="./.github/own_react.jpg" width="200px" />
         </a>
         <p align="center">
-          Deploy: <a href="https://the-react-clone.netlify.app/">Project example</a>
-          <br/>
           Git: <a href="https://github.com/addamsv/laniakea-core-ts/">Own React</a>
           <br/>
-          NPM: <a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module">React NPM lib</a>
+          NPM repo: <a href="https://www.npmjs.com/package/laniakea-core-ts" title="npmjs module">React NPM lib</a>
           <br/>
           Git: <a href="https://github.com/addamsv/laniakea-core-ts/tree/prod-state-manager">Own Redux</a>
           <br/>
           Git: <a href="https://github.com/addamsv/laniakea-core-ts/tree/prod-query-api">Own Axios</a>
           <br/>
+          <br/>
+          Deploy: <a href="https://the-react-clone.netlify.app/">Project example</a>
           <br/>
         </p> 
       </td>
