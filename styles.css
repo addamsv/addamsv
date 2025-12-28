@@ -872,7 +872,7 @@ body {
   /*-webkit-align-items:flex-start;*/
   align-items: flex-start;
   font-family: Arial;
-  padding: 80px 0;
+  padding: 80px 10px;
 }
 .video-about-author-main-header {
   font-size: 47px;
@@ -896,40 +896,45 @@ body {
             -moz-flex-wrap: wrap;*/
   flex-wrap: wrap;
   width: 100%;
-  margin-top: 20px;
+  margin: 0px 10px 0 0px;
 }
 .video-about-author-video {
-  width: calc(100% / 2);
+  width: calc(97% / 2);
   background-color: #fff;
+  /* padding-right: 10px; */
+  /* margin-right: 1px; */
+
+  margin-top: 20px;
+  position: relative;
+  /* width: 100%; */
+  padding-top: calc(56.25% / 2); /*  Соотношение 16:9 (9 / 16 * 100) */
+  /* margin-bottom: 20px; */
 }
-.video-about-author-video img {
+.video-about-author-video img, video, iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  padding-right: 30px;
+  border: none;
 }
 @media (max-width: 1210px) {
-  .video-about-author-content__wrapper {
+  .video-about-author-video {
     padding-left: 10px;
+  }
+  .video-about-author-content__wrapper {
     max-width: 900px;
   }
-  .video-about-author-video img {
-    padding-right: 20px;
-  }
+
 }
 @media (max-width: 910px) {
   .video-about-author-video {
-    width: 100%;
-  }
-  .video-about-author-video img {
-    padding-top: 10px;
+    width: 90%;
+    padding-top: 56.25%;
     padding-right: 10px;
   }
 }
 @media (max-width: 610px) {
-  .video-about-author-content__wrapper {
-    padding: 50px 10px;
-  }
   .video-about-author-main-header {
     font-size: 32px;
   }
