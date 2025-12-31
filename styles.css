@@ -270,7 +270,7 @@ body {
 .header-bg-img {
   display: block;
   position: absolute;
-  background-image: url("img/img.jpg");
+  background-image: url("img/img-header-1.jpg");
   background-repeat: no-repeat;
   background-position: center 56%;
   background-size: cover;
@@ -515,8 +515,7 @@ body {
   margin-top: 20px;
   max-width: 470px;
 }
-.last-events-content__nav {
-}
+
 .last-events-nav-button-lft,
 .last-events-nav-button-rght {
   display: inline-block;
