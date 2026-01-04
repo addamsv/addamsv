@@ -273,9 +273,7 @@ body {
 .header-bg-img-2 {
   background-image: url("img/img-header-2.jpg");
 }
-.header-bg-img-3 {
-  /* background-image: url("img/img-header-3.jpg"); */
-}
+
 .header-bg-img {
   display: block;
   position: absolute;
