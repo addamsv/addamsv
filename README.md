@@ -28,7 +28,7 @@
         </p>
       </td>
       <td>
-        <h2>Audio Books</h2>
+        <h2>English Audio Books</h2>
         <p align="center">
           TS, React, Redux, Thunk, RTK query, Nodejs, Express, Auth, JWT, REST API, Tests (Unit, Integr, Screenshots), Storybook, CI/CD...
           <br><br>
@@ -82,20 +82,24 @@
           <br/>
         </p> 
       </td>
-<!--       <td>
-        <p>Animation & WordPress Theme Builder</p>
-        <img src="./.github/lania.jpg" width="300px" height="200px" />
-        <p align="center">private repo:</p>
-        <p align="center">
-          <a href="https://github.com/addamsv/The-Laniakea">
-            <img src="./.github/git.jpg" width="30px" height="30px">
-          </a>
-          <br><br>
-          <a href="https://the-laniakea.netlify.app/">
-          <img src="./.github/see_project.png" width="104px" height="41px" />
-        </a>
+      <td>
+        <h2>HTML, CSS, Animation Maker & WordPress Theme Builder</h2>
+        <p>
+          TS, React, Redux, RTK query, REST API, NodeJS Express, CI/CD...
         </p>
-      </td> -->
+        <a href="https://addamsv.github.io/addamsv/projects/lania/index.html">
+          <img src="./.github/lania.jpg" width="300px" height="200px" />
+        </a>
+        <p align="center">
+         <p align="center">
+          Description: <a href="https://addamsv.github.io/addamsv/projects/lania/index.html">Site</a>
+         </p>
+         <!-- <br><br>
+         <a href="https://the-laniakea.netlify.app/">
+          <img src="./.github/see_project.png" width="104px" height="41px" />
+         </a> -->
+        </p>
+      </td>
     </tr>
   </table>
 
