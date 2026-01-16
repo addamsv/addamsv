@@ -195,12 +195,56 @@ body {
     opacity: 0;
     transform: scale(1.3);
   }
-  30% {
+  40% {
     opacity: 1;
   }
 }
 .header-background-animation {
   animation-name: header-background-animation-keyframes;
+  animation-duration: 12.24s;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: both;
+}
+
+@keyframes header-background-animation-1-keyframes {
+  20% {
+    opacity: 0;
+  }
+  30% {
+    transform: scale(1.3);
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.header-background-animation-1 {
+  animation-name: header-background-animation-1-keyframes;
+  animation-duration: 22.24s;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: both;
+}
+
+@keyframes header-background-animation-2-keyframes {
+  0% {
+    opacity: 0;
+    transform: scale(1.3);
+  }
+  30% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.header-background-animation-2 {
+  animation-name: header-background-animation-2-keyframes;
   animation-duration: 6.24s;
   animation-delay: 0s;
   animation-iteration-count: 1;
@@ -944,6 +988,9 @@ body {
   padding-top: calc(56.25% / 2); /*  Соотношение 16:9 (9 / 16 * 100) */
   /* margin-bottom: 20px; */
 }
+ iframe .ytp-show-cards-title {
+  visibility: hidden;
+}
 .video-about-author-video img, video, iframe {
   position: absolute;
   top: 0;
@@ -1222,4 +1269,7 @@ body {
   width: 20px;
   height: 20px;
   cursor: pointer;
+}
+.footer .icons:hover {
+  fill: #bbb;
 }
